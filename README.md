@@ -1,3 +1,7 @@
+# THIS FORK
+adds support for My9221
+
+
 # MY92XX LED driver library for Arduino AVR and ESP8266
 
 Arduino library for the Taiwan Mingyang (MY-Semi) MY9291 and MY9231 LED drivers. Based in the C driver by Maike Labs, included in the [Noduino SDK](https://github.com/icamgo/noduino-sdk).
