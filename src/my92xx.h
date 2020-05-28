@@ -39,6 +39,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 typedef enum my92xx_model_t {
         MY92XX_MODEL_MY9291 = 0X00,
         MY92XX_MODEL_MY9231 = 0X01,
+        MY92XX_MODEL_MY9221 = 0X02,
 } my92xx_model_t;
 
 typedef enum my92xx_cmd_one_shot_t {
